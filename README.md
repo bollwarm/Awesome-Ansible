@@ -1,9 +1,9 @@
 
 # Awesome-Ansible
 
-A collection of Ansible roles ,example, libraries, documents, books, resources and tools basing ansible.
+A collection of Ansible roles ,example, libraries, documents, books, resources and tools based ansible.
 
-## ansible roles
+## Ansible roles
 
 https://github.com/lework/Ansible-roles
 
@@ -177,7 +177,7 @@ https://github.com/iamckn/wireguard_ansible
 
 https://github.com/bertvv/ansible-role-samba
 
-## ansible examples
+## Ansible examples
 
 https://github.com/Azure-Samples/ansible-playbooks
 
@@ -231,7 +231,7 @@ https://github.com/theforeman/foreman_ansible
 
 https://github.com/ybalt/ansible-tower
 
-## ansible documents & books
+## Ansible documents & books
 
 https://www.ansible.com/resources/ebooks?intcmp=701f2000000h4RcAAI
 
